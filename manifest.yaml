@@ -1,5 +1,5 @@
 _schemaVersion: "3.0.0"
-app: "com.example.hello-world-lw"
+app: "de.wittemeier.hello-world-lw"
 version: "0.2-0"
 revision: "0"
 image: "ghcr.io/lw01194-wi/container/library/hello-world-app-lw"
