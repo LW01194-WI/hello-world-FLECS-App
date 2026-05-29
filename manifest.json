@@ -2,7 +2,7 @@
     "_schemaVersion": "3.0.0",
     "app": "l.wittemeier.hello-world-app",
     "version": "0.2-0",
-    "revision": "0",
+    "revision": "1",
     "image": "ghcr.io/lw01194-wi/container/library/hello-world-app-lw",
     "multiInstance": false,
     "editors": [
