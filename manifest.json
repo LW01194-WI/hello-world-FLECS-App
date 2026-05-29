@@ -1,0 +1,24 @@
+{
+    "_schemaVersion": "2.0.0",
+    "app": "l.wittemeier.hello-world-app",
+    "version": "0.2-0",
+    "revision": "0",
+    "image": "ghcr.io/lw01194-wi/container/library/hello-world-app-lw",
+    "multiInstance": false,
+    "editors": [
+        {
+        "name": "UI",
+        "port": 3000,
+        "supportsReverseProxy": true
+        }],
+    "args": [],
+    "capabilities": [],
+    "conffiles": [],
+    "devices": [],
+    "env": [],
+    "interactive": false,
+    "ports": [],
+    "startupOptions": [],
+    "volumes": [],
+    "labels": ["hello-world-lw"]
+}
